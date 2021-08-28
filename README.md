@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kraken</h1>
+
 - 🔭 I’m currently working on **My own blog**
 
 - 🌱 I’m currently learning **React, Python**
