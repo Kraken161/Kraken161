@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kraken</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kraken161&label=Profile%20views&color=3cdd47&style=flat" alt="kraken161" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kraken161" alt="kraken161" /></a> </p>
-
 - 🔭 I’m currently working on **My own blog**
 
 - 🌱 I’m currently learning **React, Python**
