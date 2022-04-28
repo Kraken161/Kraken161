@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krzysiek</h1>
 <h3 align="center">A junior WebDeveloper</h3>
 
-- 🔭 I’m currently working on **my own blog**
+- 🔭 I’m currently working on **gmail copy**
 
-- 🌱 I’m currently learning **nodejs course and react.**
+- 🌱 I’m currently learning **dart and react.**
 
 - 👨‍💻 All of my projects are available at [https://krakenkrzysiek.herokuapp.com/](https://krakenkrzysiek.herokuapp.com/)
 
